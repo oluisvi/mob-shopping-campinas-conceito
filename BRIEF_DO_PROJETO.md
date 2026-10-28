@@ -39,3 +39,9 @@ Uma experiência que organize as linhas de bikes, scooters, motos e triciclos e 
 - Escopo, investimento e prazo não definidos.
 - Nenhuma integração ou pedido/checkout prometido.
 - Não enviar preço nem proposta fechada antes de entender necessidade e confirmar dados com a loja.
+
+## Publicação do conceito
+- Preview: https://oluisvi.github.io/mob-shopping-campinas-conceito/
+- Publicação GitHub Pages criada em 28/10/2026.
+- Layout base refeito mobile-first; breakpoints ampliam a composição progressivamente.
+- A página pública preserva a identificação de conceito e a ressalva de que produtos e specs são referências externas, não estoque confirmado.
